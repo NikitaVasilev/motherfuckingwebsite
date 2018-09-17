@@ -1,5 +1,5 @@
-# The Hacking Project - Week 00 - Mother Fucking Website
+# The Hacking Project - Week 00 - Motherfucking Website
 
-**The project requirements was to recreate the Mother Fucking Website**
+**The project requirements was to recreate the Motherfucking Website**
 
-This is my own version of the very famous [Mother Fucking Website](http://motherfuckingwebsite.com/).
+This is my own version of the very famous [Motherfucking Website](http://motherfuckingwebsite.com/).
